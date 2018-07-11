@@ -33,7 +33,7 @@ class B extends A{
 public class Test extends B{
 
 	{
-		System.out.println("CallTest's instanse block 1111");
+		System.out.println("CallTest's instanse block 11112222");
 	}
 	static{
 		System.out.println("CallTest's static block");
