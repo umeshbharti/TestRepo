@@ -12,7 +12,7 @@ class A{
 	}
 	
 	A(){
-		System.out.println("A's constructor");
+		System.out.println("A's constructor 1111");
 	}
 }
 
@@ -26,7 +26,7 @@ class B extends A{
 	}
 	
 	B(){
-		System.out.println("B's constructor 1111222");
+		System.out.println("B's constructor 1111333");
 	}
 }
 
