@@ -5,7 +5,7 @@ package springBootTest;
 class A{
 
 	{
-		System.out.println("A's instanse block 1111 2222");
+		System.out.println("A's instanse block 1111 2222 3333");
 	}
 	static{
 		System.out.println("A's static block");
